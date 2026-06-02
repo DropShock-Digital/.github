@@ -1,0 +1,76 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DropShock Digital — Full Context Solutions</title>
+  <desc id="desc">Black-ice studio banner for DropShock Digital LLC — Photography, Video, AI, Development, IT. Hesperia, California.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020205"/>
+      <stop offset="0.42" stop-color="#060d1a"/>
+      <stop offset="1" stop-color="#020812"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C8FF" stop-opacity="0.92"/>
+      <stop offset="0.5" stop-color="#7DD3FC" stop-opacity="0.84"/>
+      <stop offset="1" stop-color="#00C8FF" stop-opacity="0.72"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 180) rotate(140) scale(320 220)">
+      <stop stop-color="#00C8FF" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#00C8FF" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#00C8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 120) rotate(30) scale(260 200)">
+      <stop stop-color="#7DD3FC" stop-opacity="0.16"/>
+      <stop offset="0.7" stop-color="#7DD3FC" stop-opacity="0.03"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#7DD3FC" stroke-opacity="0.05" stroke-width="0.8"/>
+    </pattern>
+    <filter id="iceGlow" x="-60" y="-60" width="180" height="180" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .mark{font:800 19px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;fill:#00C8FF;opacity:.90}
+      .name{font:700 64px Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.038em;fill:#EDF4F8}
+      .sub{font:600 24px Inter,ui-sans-serif,system-ui,sans-serif;fill:#BAE6FD;opacity:.88}
+      .tag{font:600 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.12em;fill:#7DD3FC;opacity:.72}
+      .label{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.20em;fill:#EDF4F8;opacity:.65}
+      .pulse{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.08em;fill:#00C8FF;opacity:.80}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#glowL)"/>
+  <rect width="1200" height="360" fill="url(#glowR)"/>
+
+  <path d="M0 72C110 86 168 68 256 78C368 91 390 62 492 70C580 77 640 96 730 84C810 73 870 54 960 66C1060 79 1128 98 1200 90" stroke="#00C8FF" stroke-opacity="0.14" stroke-width="1.5"/>
+  <path d="M0 288C130 272 200 296 310 282C440 265 510 248 620 262C750 279 830 296 940 284C1050 271 1110 254 1200 266" stroke="#7DD3FC" stroke-opacity="0.09" stroke-width="1.2"/>
+
+  <g filter="url(#iceGlow)">
+    <circle cx="984" cy="100" r="5" fill="#00C8FF"/>
+    <circle cx="896" cy="174" r="4" fill="#7DD3FC"/>
+    <circle cx="1072" cy="188" r="4" fill="#4A9EFF"/>
+  </g>
+  <path d="M896 174L984 100L1072 188Z" stroke="#7DD3FC" stroke-opacity="0.22" stroke-width="1.4"/>
+  <path d="M896 174L984 100" stroke="#00C8FF" stroke-opacity="0.28" stroke-width="1.8"/>
+
+  <rect x="848" y="246" width="64" height="1.5" rx="1" fill="#7DD3FC" opacity="0.22"/>
+  <rect x="940" y="246" width="64" height="1.5" rx="1" fill="#4A9EFF" opacity="0.18"/>
+  <rect x="1032" y="246" width="64" height="1.5" rx="1" fill="#00C8FF" opacity="0.20"/>
+
+  <text x="64" y="82" class="mark">DROPSHOCK DIGITAL LLC</text>
+  <text x="64" y="168" class="name">DROP<span fill="#00C8FF">SHOCK</span> DIGITAL</text>
+  <line x1="64" y1="194" x2="548" y2="194" stroke="url(#accent)" stroke-width="2.5"/>
+  <text x="64" y="240" class="sub">Full-context solutions for creative teams and operators</text>
+
+  <text x="64" y="294" class="tag">PHOTOGRAPHY · VIDEO · AI AGENTS · DEVELOPMENT · IT INFRASTRUCTURE</text>
+
+  <text x="800" y="310" class="label">HESPERIA · CALIFORNIA</text>
+  <text x="984" y="332" class="label">WORLDWIDE AVAILABLE</text>
+
+  <text x="64" y="338" class="pulse">● EST. 2023 · SHOOT TODAY. SHARE TONIGHT.</text>
+</svg>
