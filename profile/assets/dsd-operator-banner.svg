@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">DropShock Digital — Full Context Solutions</title>
-  <desc id="desc">Black-ice studio banner for DropShock Digital LLC — Photography, Video, AI, Development, IT. Hesperia, California.</desc>
+  <title id="title">DropShock Digital — Creative Production, Software, Operations</title>
+  <desc id="desc">Black-ice studio banner for DropShock Digital LLC.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020205"/>
@@ -65,12 +65,12 @@
   <text x="64" y="82" class="mark">DROPSHOCK DIGITAL LLC</text>
   <text x="64" y="168" class="name">DROP<span fill="#00C8FF">SHOCK</span> DIGITAL</text>
   <line x1="64" y1="194" x2="548" y2="194" stroke="url(#accent)" stroke-width="2.5"/>
-  <text x="64" y="240" class="sub">Full-context solutions for creative teams and operators</text>
+  <text x="64" y="240" class="sub">Creative production and technical execution for operators</text>
 
-  <text x="64" y="294" class="tag">PHOTOGRAPHY · VIDEO · AI AGENTS · DEVELOPMENT · IT INFRASTRUCTURE</text>
+  <text x="64" y="294" class="tag">PHOTOGRAPHY · VIDEO · SOFTWARE · WORKFLOW SUPPORT</text>
 
-  <text x="800" y="310" class="label">HESPERIA · CALIFORNIA</text>
-  <text x="984" y="332" class="label">WORLDWIDE AVAILABLE</text>
+  <text x="800" y="310" class="label">SOUTHERN CALIFORNIA</text>
+  <text x="984" y="332" class="label">REMOTE + ON-SITE</text>
 
   <text x="64" y="338" class="pulse">● EST. 2023 · SHOOT TODAY. SHARE TONIGHT.</text>
 </svg>
