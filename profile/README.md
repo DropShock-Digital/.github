@@ -1,3 +1,45 @@
+
+<!-- README-ROAST:START -->
+
+## README Roast Pass
+
+Roasted with [https://github.com/hidai25/readme-roast](https://github.com/hidai25/readme-roast) on 2026-06-25. This block is evidence-only: repo metadata, root files, and the existing README were scanned before writing.
+
+### Fast roast
+
+- Pre-pass README score: **67/100** by the readme-roast categories: first impression, install friction, trust, visuals, and structure.
+- No clear H1 hero near the top.
+- Install/setup path was not obvious.
+- Biggest fix in this pass: added a Mermaid repo map plus a quick operator scan without deleting the existing README content.
+
+### Mermaid repository map
+
+```mermaid
+flowchart TD
+  R["DropShock-Digital/.github"]
+  R --> N1["profile/"]
+```
+
+### Operator quick scan
+
+| Signal | Evidence |
+|---|---|
+| GitHub repo | [DropShock-Digital/.github](https://github.com/DropShock-Digital/.github) |
+| Description | Organization profile README for DropShock Digital |
+| Default branch | `main` |
+| Primary languages | Not reported by GitHub yet |
+| Install path | Not detected from root files |
+| Run/build hint | Not detected from root files |
+| Key files scanned | No common root project files detected |
+
+### README next upgrades
+
+- Add real screenshots, GIFs, or CLI output once the repo has a stable demo path.
+- Pin exact setup commands after verifying them in a clean environment.
+- Link production/staging/docs only when the URL is durable and intended for readers.
+
+<!-- README-ROAST:END -->
+
 <p align="center">
   <img src="./assets/dsd-operator-banner.svg" alt="DropShock Digital — Creative Production, Software, Operations" width="100%" />
 </p>
